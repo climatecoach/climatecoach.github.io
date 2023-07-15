@@ -7,7 +7,7 @@ description: Guiding principles and process for investigating abuse reports
 
 *Last updated: January 19, 2021*
 
-We built Climate Coach to helps close our value-action gap. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
+We built Climate Coach to help make a better future for our kids and the living environment. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
 Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](../index.md). When that happens, we investigate using the following guiding principles and process.
 
