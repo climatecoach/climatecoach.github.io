@@ -13,7 +13,7 @@ When we say “Company”, “we”, “our”, or “us” in this document, we
 
 When we say “Services”, we mean our websites, including climatecoach.com, hey.com, and climatecoach.com, and any product created and maintained by Climate Coach Ltd. That includes Climate Coach (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Climate Coach 4](https://climatecoach.com/about/policies/ownership-bc3), [Climate Coach 2](https://2.climatecoach-help.com/article/411-account-ownership), [Climate Coach Classic](https://classic.climatecoach-help.com/article/526-account-ownership), [HEY for Domains](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
+When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
 We may update these Terms of Service ("Terms") in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/Climate Coach/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
@@ -27,14 +27,6 @@ If you violate any of the Terms, we may terminate your account. That’s a broad
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md), and you may not permit any of your users to do so, either.
 3. You are responsible for all content posted to and activity that occurs under your account, including content posted by and activity of any users in your account.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
-
-## Payment, Refunds, and Plan Changes
-
-1. If you are using a free version of one of our Services, it is really free: we do not ask you for your credit card and — just like for customers who pay for our Services — we do not sell your data.
-2. For paid Services that offer a free trial, we explain the length of trial when you sign up. After the trial period, you need to pay in advance to keep using the Service. If you do not pay, we will freeze your account and it will be inaccessible until you make payment. If your account has been frozen for a while, we will queue it up for auto-cancellation. See our [Cancellation policy](../cancellation/index.md) for more details.
-3. If you are upgrading from a free plan to a paid plan, we will charge your card immediately and your billing cycle starts on the day of upgrade. For other upgrades or downgrades in plan level, the new rate starts from the next billing cycle.
-4. All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities. Where required, we will collect those taxes on behalf of the taxing authority and remit those taxes to taxing authorities. See our [Taxes policy](../taxes/index.md) for more details. Otherwise, you are responsible for payment of all taxes, levies, or duties.
-5. We process refunds according to our [Fair Refund policy](../refund/index.md).
 
 ## Cancellation and Termination
 
