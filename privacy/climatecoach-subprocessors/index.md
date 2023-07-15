@@ -11,17 +11,8 @@ We use third party subprocessors, such as cloud computing providers and customer
 
 The following is a list of personal data subprocessors we use.
 
-* [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
-* [Braintree](https://www.braintreepayments.com/legal/payment-services-agreement-us). Payment processing services.
-* [Cloudflare](https://www.cloudflare.com/gdpr/introduction/). Cloud services provider.
-* [Convert.com](https://www.convert.com/privacy/). A/B testing software.
-* [Customer.io](https://customer.io/gdpr.html). Transactional email service.
-* [Datadog](https://www.datadoghq.com/legal/privacy/). Infrastructure and application monitoring.
-* [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Cloud services provider.
-* [hCaptcha](https://hcaptcha.com/privacy). Anti-bot protection.
-* [Help Scout](https://www.helpscout.net/company/legal/gdpr/). Help desk software.
-* [Mailchimp](https://mailchimp.com/gdpr/). Transactional email service.
-* [Sentry](https://blog.sentry.io/2018/03/14/gdpr-sentry-and-you). Error reporting software.
-* [TaxJar](https://support.taxjar.com/article/526-taxjar-security-and-privacy-questions). Sales tax calculation.
+* [Brevo](https://www.brevo.com/gdpr/). Email services provider.
+* [FormSpark](https://formspark.io/legal/gdpr/). Form service provider.
+* [Google Analytics](https://policies.google.com/privacy). Cloud services provider.
 
 If you want to be notified every time we update this list, please email us on updates@climatecoach.com
