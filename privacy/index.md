@@ -56,7 +56,7 @@ We collect information about your browsing activity for analytics and statistica
 
 ### Anti-bot assessments
 
-We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your Climate Coach accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides Climate Coach with the spam score results; we do not have access to the evaluated information.
+We use [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) across our applications to mitigate brute force logins and as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your Climate Coach accounts and when you fill in certain forms, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. The CAPTCHA service then provides Climate Coach with the spam score results; we do not have access to the evaluated information.
 
 ### Advertising and Cookies
 
@@ -74,9 +74,9 @@ We also store information you may volunteer, for example, written responses to s
 
 ## When we access or disclose your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Climate Coach](https://climatecoach.com/about/policies/privacy/climatecoach-subprocessors/), [HEY](https://climatecoach.com/about/policies/privacy/hey-subprocessors/), [Highrise](https://climatecoach.com/about/policies/privacy/highrise-subprocessors/), [Campfire](https://climatecoach.com/about/policies/privacy/campfire-subprocessors/), [Backpack](https://climatecoach.com/about/policies/privacy/backpack-subprocessors/). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://climatecoach.com/about/policies/privacy/company-processors/).
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Climate Coach](https://climatecoach.com/about/policies/privacy/climatecoach-subprocessors/).
 
-We may disclose your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your HEY account so that you can use HEY to receive and respond to your Gmail email. Email that you receive and respond to through HEY from your Gmail address will be stored by both HEY and Google and will be available to you from your Gmail account as well as your HEY account.
+We may disclose your information at your direction if you integrate a third-party service into your use of our products. For example, we may allow you, at your option, to connect your Gmail account to your Climate Coach account so that you can use Climate Coach to receive and respond to your Gmail email. Email that you receive and respond to through Climate Coach from your Gmail address will be stored by both Climate Coach and Google and will be available to you from your Gmail account as well as your Climate Coach account.
 
 No Climate Coach human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see "When required under applicable law" below).
 
@@ -109,14 +109,7 @@ At Climate Coach, we strive to apply the same data rights to all customers, rega
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of your personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
-* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. If you want to export data from your accounts, you can do so directly by following these instructions for
-  [HEY](https://hey.com/faqs/#if-i-don-t-like-hey-can-i-export-my-email-and-contacts),
-  [Climate Coach 4](https://3.climatecoach-help.com/article/150-export-your-climatecoach-data),
-  [Climate Coach 2](https://2.climatecoach-help.com/article/247-exporting-account-data),
-  [Climate Coach Classic](https://classic.climatecoach-help.com/article/524-exports),
-  [Highrise](https://support.highrise-help.com/category/314-imports-exports),
-  [Campfire](https://support.campfire-help.com/article/146-how-do-i-export-cancel-my-account), and
-  [Backpack](https://support.backpack-help.com/article/289-can-i-export-my-data-out-of-backpack).
+* **Right to Portability.** You have the right to receive the personal information we have about you and the right to transmit it to another party. If you want to export data from your accounts, you can do so by emailig us at contact@climatecoach.com
 * **Right to not Be Subject to Automated Decision-Making.** You have the right to object to and prevent any decision that could have a legal or similarly significant effect on you from being made solely based on automated processes. This right is limited if the decision is necessary for performance of any contract between you and us, is allowed by applicable law, or is based on your explicit consent.
 * **Right to Non-Discrimination.** We do not and will not charge you a different amount to use our products, offer you different discounts, or give you a lower level of customer service because you have exercised your data privacy rights. However, the exercise of certain rights may, by virtue of your exercising those rights, prevent you from using our Services.
 
@@ -130,11 +123,9 @@ Depending on applicable law, you may have the right to appeal our decision to de
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
 
-With regard to products other than HEY, most data are not encrypted while they live in our database (since they need to be ready to send to you when you need them). With HEY, we go further by encrypting the database at-work. Every field containing personal data is encrypted with its own key. The disks storing the data keys are encrypted as well. Our servers decrypt the data to send it to you when you need it. You can learn more about our approach to security for HEY at [https://hey.com/security/](https://hey.com/security/).
-
 ## What happens when you delete content in your product accounts
 
-In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product). After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
+We deleted content immediately upon request to: support@climatecoach.com.
 
 If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-canceled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
 
@@ -144,16 +135,10 @@ We keep your information for the time necessary for the purposes for which it is
 
 ## Location of site and data
 
-Our products and other web properties are operated in the United States. If you are located in the European Union, UK, or elsewhere outside of the United States, **please be aware that any information you provide to us will be transferred to and stored in the United States**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
-
-## When transferring personal data from the EU
-
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Climate Coach has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. Climate Coach’ DPA is available at [https://climatecoach.com/about/policies/privacy/regulations/climatecoach-gdpr-dpa.pdf](https://climatecoach.com/about/policies/privacy/regulations/climatecoach-gdpr-dpa.pdf).
-
-There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with Climate Coach operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
+Our products and other web properties are operated in the United Kingdom and United States. **Please be aware that any information you provide to us may be transferred to and stored in the United Kingdom or United States**. By using our websites or Services and/or providing us with your personal information, you consent to this transfer.
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since mid-2018 [on GitHub](https://github.com/Climate Coach/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@climatecoach.com](mailto:privacy@climatecoach.com) and we’ll be happy to try to answer them!

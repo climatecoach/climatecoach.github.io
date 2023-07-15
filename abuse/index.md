@@ -5,13 +5,13 @@ description: It is not okay to use Climate Coach products for these restricted p
 
 # Use Restrictions
 
-*Last updated: March 4, 2021*
+*Last updated: July 15, 2023*
 
-Hundreds of thousands of teams use Climate Coach products*. We are proud to give them a better way to work. We also recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Climate Coach is used (and abused) to further such harm, and to state unequivocally that the products we make at Climate Coach are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
+We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Climate Coach is used (and abused) to further such harm, and to state unequivocally that the products we make at Climate Coach are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, [we will take action](how-we-handle/index.md).
 
 ## Restricted purposes
 
-* **Violence, or threats thereof**: If an activity qualifies as violent crime in the United States or where you live, you may not use Climate Coach products to plan, perpetrate, or threaten that activity.
+* **Violence, or threats thereof**: If an activity qualifies as violent crime in the United Kingdom or where you live, you may not use Climate Coach products to plan, perpetrate, or threaten that activity.
 * **Child exploitation, sexualization, or abuse**: We don’t tolerate any activities that create, disseminate, or otherwise cause child abuse. Keep away and stop. Just stop.
 * **Hate speech**: You cannot use our products to advocate for the extermination, domination, or oppression of people.
 * **Harassment**: Intimidating or targeting people or groups through repeated communication, including using racial slurs or dehumanizing language, is not welcome at Climate Coach.
@@ -34,4 +34,4 @@ Please share as much as you are comfortable with about the account, the content 
 
 Someone on our team will respond within one business day to let you know we’ve begun investigating. We have published details on [how we investigate use restriction reports](how-we-handle/index.md). We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
 
-**This policy and process applies to any product created and owned by Climate Coach, LLC. That includes Climate Coach (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+**This policy and process applies to any product created and owned by Climate Coach Ltd.*
