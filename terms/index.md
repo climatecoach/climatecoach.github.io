@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Climate Coac
 
 # Terms of Service
 
-*Last updated: January 6, 2023*
+*Last updated: July 15, 2023*
 
 From everyone at Climate Coach, thank you for using our products! We build them to help you do your best work. There are millions of people using Climate Coach products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
 

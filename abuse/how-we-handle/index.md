@@ -5,7 +5,7 @@ description: Guiding principles and process for investigating abuse reports
 
 # How we handle abusive usage
 
-*Last updated: January 19, 2021*
+*Last updated: July 15, 2023*
 
 We built Climate Coach to help make a better future for our kids and the living environment. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
