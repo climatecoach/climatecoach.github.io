@@ -1,6 +1,6 @@
 ---
 title: Cancellation policy
-description: Everything you need to know about canceling your Climate Coach product accounts.
+description: Everything you need to know about canceling your Climate Coach account.
 ---
 
 # Cancellation policy

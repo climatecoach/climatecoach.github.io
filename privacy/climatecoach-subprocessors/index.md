@@ -14,5 +14,6 @@ The following is a list of personal data subprocessors we use.
 * [Brevo](https://www.brevo.com/gdpr/). Email services provider.
 * [FormSpark](https://formspark.io/legal/gdpr/). Form service provider.
 * [Google Analytics](https://policies.google.com/privacy). Cloud services provider.
+* [Make](https://www.integromat.com/en/help/data-protection-at-integromat). Cloud services provider.
 
-If you want to be notified every time we update this list, please email us on updates@climatecoach.com
+If you want to be notified every time we update this list, please email us on subprocessorupdates@climatecoach.com
