@@ -2,8 +2,7 @@
 title: Terms of Service
 description: All the terms that you agree to when you sign up.
 ---
-
-<< 
+ 
 # Terms of Service
 
 *Last updated: July 15, 2023*
